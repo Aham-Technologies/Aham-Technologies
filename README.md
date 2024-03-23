@@ -28,7 +28,7 @@ I'm a passionate and innovative software developer with a strong focus on creati
 + With a focus on agility and quality, I develop custom software applications that address specific business challenges and deliver measurable results. From mobile apps to enterprise systems, I ensure that my solutions drive value and competitive advantage.
 ## Why Work With Me
 
-__Expertise__: 
++ __Expertise__: 
 + I bring a wealth of experience and expertise in software development, IoT, and business strategy.
 + __Innovation__: I stay at the forefront of technology trends, constantly exploring new solutions to keep my clients ahead of the curve.
 + __Collaborative Approach__: I believe in building strong partnerships with my clients, working closely together to achieve mutual success.
