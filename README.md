@@ -1,15 +1,3 @@
-- 👋 Hi, I’m @Aham-Technologies
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-Aham-Technologies/Aham-Technologies is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 # Hi there, I'm  AhamTechnologies 👋
 
 ## About Me
@@ -28,8 +16,7 @@ I'm a passionate and innovative software developer with a strong focus on creati
 + With a focus on agility and quality, I develop custom software applications that address specific business challenges and deliver measurable results. From mobile apps to enterprise systems, I ensure that my solutions drive value and competitive advantage.
 ## Why Work With Me
 
-+ __Expertise__: 
-+ I bring a wealth of experience and expertise in software development, IoT, and business strategy.
++ __Expertise__:+ I bring a wealth of experience and expertise in software development, IoT, and business strategy.
 + __Innovation__: I stay at the forefront of technology trends, constantly exploring new solutions to keep my clients ahead of the curve.
 + __Collaborative Approach__: I believe in building strong partnerships with my clients, working closely together to achieve mutual success.
 + __Scalability__: My solutions are designed to scale with businesses, ensuring flexibility and adaptability to evolving needs.
