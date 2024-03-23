@@ -18,14 +18,14 @@ I'm a passionate and innovative software developer with a strong focus on creati
 
 ## What I Do
 
-__Business Creation__: 
-I specialize in helping entrepreneurs and startups bring their ideas to life by providing custom software solutions and online platforms tailored to their business needs. From e-commerce stores to service-based businesses, I ensure a seamless launch and management process.
-__IoT Project Development__: 
-Leveraging the power of connected devices and data analytics, I design and implement IoT projects that drive efficiency and innovation. Whether it's smart home automation, industrial IoT solutions, or wearable technologies, I thrive on creating impactful solutions.
-__Consulting and Strategy__:
-I offer strategic consulting services to businesses looking to embrace digital transformation and harness the full potential of technology. My collaborative approach involves assessing needs, developing roadmaps, and identifying opportunities for growth and optimization.
-__Custom Software Development__:
-With a focus on agility and quality, I develop custom software applications that address specific business challenges and deliver measurable results. From mobile apps to enterprise systems, I ensure that my solutions drive value and competitive advantage.
++ __Business Creation__:
++ I specialize in helping entrepreneurs and startups bring their ideas to life by providing custom software solutions and online platforms tailored to their business needs. From e-commerce stores to service-based businesses, I ensure a seamless launch and management process.
++ __IoT Project Development__:
++ Leveraging the power of connected devices and data analytics, I design and implement IoT projects that drive efficiency and innovation. Whether it's smart home automation, industrial IoT solutions, or wearable technologies, I thrive on creating impactful solutions.
++ __Consulting and Strategy__:
++ I offer strategic consulting services to businesses looking to embrace digital transformation and harness the full potential of technology. My collaborative approach involves assessing needs, developing roadmaps, and identifying opportunities for growth and optimization.
++ __Custom Software Development__:
++ With a focus on agility and quality, I develop custom software applications that address specific business challenges and deliver measurable results. From mobile apps to enterprise systems, I ensure that my solutions drive value and competitive advantage.
 ## Why Work With Me
 
 ### Expertise: 
