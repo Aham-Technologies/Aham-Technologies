@@ -29,7 +29,7 @@ With a focus on agility and quality, we develop custom software applications tha
 
 If you're looking to transform your ideas into successful businesses or embark on exciting IoT projects, let's connect! Feel free to reach out to us for collaborations, consultations, or just to say hello.
 
-📧 Email: contact@ahamtechnologies.org
+📧 Email: ahamtechnologies.org@gmail.com
 
 🔗 LinkedIn: [Aham Technologies LinkedIn Profile](#)
 
