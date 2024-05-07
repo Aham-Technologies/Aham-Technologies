@@ -39,8 +39,8 @@ If you're looking to transform your ideas into successful businesses or embark o
 
 📧 Email: ahamtechnologies.org@gmail.com
 
-🔗 LinkedIn: [Aham Technologies LinkedIn](https://www.linkedin.com/in/aham-technologies/)
+🌐 Website: [Aham Technologies Website or Portfolio](https://ahamtechnologies.com/)
 
-🌐 Website: [Aham Technologies Website or Portfolio](#)
+🔗 LinkedIn: [Aham Technologies LinkedIn](https://www.linkedin.com/in/aham-technologies/)
 
 Let's innovate and create something amazing together! 😊✨
